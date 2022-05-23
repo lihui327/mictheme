@@ -1,7 +1,7 @@
 ---
 title: A Monk Taught Me How to Focus
 date: 2022-04-26 16:06:53
-thumbnail: http://photo.lihui327.cn/blog/images/2022-05-22_210753.png
+thumbnail: https://photo.lihui327.cn/blog/images/2022-05-22_210753.png
 categories: medium
 tags:
 - blog

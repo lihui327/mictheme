@@ -1,7 +1,7 @@
 ---
 title: 10 Dostoevsky Quotes For Deep Thinkers
 date: 2022-04-23 14:45:36
-thumbnail: http://photo.lihui327.cn/blog/images/2022-05-22_203927.png
+thumbnail: https://photo.lihui327.cn/blog/images/2022-05-22_203927.png
 categories: medium
 tags:
 - blog

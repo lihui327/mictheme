@@ -1,7 +1,7 @@
 ---
 title: Hello World
 categories: hexo
-thumbnail: http://photo.lihui327.cn/blog/images/2022-05-22_211006.png
+thumbnail: https://photo.lihui327.cn/blog/images/2022-05-22_211006.png
 tags:
 - hexo
 - blog

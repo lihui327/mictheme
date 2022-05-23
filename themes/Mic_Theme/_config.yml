@@ -41,7 +41,7 @@ Nav:
 MainFirst:
     name: lihui327
     description: 游戏党&学生党   
-    pic_url: http://photo.lihui327.cn/blog/%E5%A4%B4%E5%83%8F/banner.jpg # /images/me.jpg
+    pic_url: https://photo.lihui327.cn/blog/%E5%A4%B4%E5%83%8F/banner.jpg # /images/me.jpg
     goto_ulr: ""
 
 Gallery :

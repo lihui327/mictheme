@@ -1,7 +1,7 @@
 ---
 title: One Honest Reason Why Your Life Is So Boring
 date: 2022-04-26 16:47:26
-thumbnail: http://photo.lihui327.cn/blog/images/2022-05-22_211248.png
+thumbnail: https://photo.lihui327.cn/blog/images/2022-05-22_211248.png
 categories: medium
 tags:
 - blog

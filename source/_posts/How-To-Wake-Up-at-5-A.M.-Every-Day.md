@@ -1,7 +1,7 @@
 ---
 title: How To Wake Up at 5 A.M. Every Day
 date: 2022-04-26 16:21:40
-thumbnail: http://photo.lihui327.cn/blog/images/2022-05-22_210258.png
+thumbnail: https://photo.lihui327.cn/blog/images/2022-05-22_210258.png
 categories: medium
 tags:
 - blog

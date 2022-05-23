@@ -1,7 +1,7 @@
 ---
 title: 21 Quotes That (If Applied) Change You Into a Better Person
 date: 2022-04-26 15:35:47
-thumbnail: http://photo.lihui327.cn/blog/images/2022-05-22_203927.png
+thumbnail: https://photo.lihui327.cn/blog/images/2022-05-22_203927.png
 categories: medium
 tags:
 - blog

@@ -1,7 +1,7 @@
 ---
 title: 8 Things Every Person Should Do Before 8 A.M.
 date: 2022-04-23 15:11:43
-thumbnail: http://photo.lihui327.cn/blog/images/2022-05-22_210258.png
+thumbnail: https://photo.lihui327.cn/blog/images/2022-05-22_210258.png
 categories: medium
 tags:
 - blog

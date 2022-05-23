@@ -1,7 +1,7 @@
 ---
 title: 15 Books Everyone Should Read At Least Once
 date: 2022-04-23 15:31:23
-thumbnail: http://photo.lihui327.cn/blog/images/2022-05-22_203927.png
+thumbnail: https://photo.lihui327.cn/blog/images/2022-05-22_203927.png
 categories: medium
 tags:
 - blog
